@@ -18,7 +18,7 @@ I hypothesize that when language models believe they are being audited, they bec
 * **Random variation only**
 * **Differences disappear across repeated runs**
 
-## [Click here to read about my observations]()
+## [Click here to read about my observations](https://shalini-arthirajan.github.io/1st_post.html)
 
 ## Motivation
 
